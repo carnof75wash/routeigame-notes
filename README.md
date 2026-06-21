@@ -1,2 +1,14 @@
 # routeigame-notes
-HTML page archive and documentation
+
+页面内容归档仓库
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 文件归档
+
+- HTML 页面用于访问展示
+- README 用于说明归档用途
+
+## 归档说明
+
+本仓库用于保存发布产物，不额外承诺页面内容长期不变。
